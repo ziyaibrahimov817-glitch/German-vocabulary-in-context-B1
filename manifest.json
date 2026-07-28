@@ -1,0 +1,35 @@
+{
+  "name": "German Vocabulary in Context B1",
+  "short_name": "German B1",
+  "description": "Learn German at B1 level with grammar explained in English. 10 grammar units and 36 topic units with 2,160 words, example sentences, reading texts, dialogues, exercises and audio.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2e1065",
+  "theme_color": "#2e1065",
+  "lang": "en",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
